@@ -1,0 +1,17 @@
+Id,Name,Age,Department
+101,Ugesh,23,Analytics
+102,Ram,25,Sales
+103,Rahul,21,Developer
+104,Ramesh,25,Developer
+105,Sanjay,22,Sales
+106,Anu,22,Analytics
+107,Raj,26,Analytics
+108,Kumar,26,Analytics
+109,Vijay,26,Sales
+110,Pavi,24,Sales
+111,John,30,HR
+112,Alice,28,Finance
+113,Bob,35,IT
+114,Lee,30,HR
+115,Kavin,28,Finance
+116,Vikram,35,IT
